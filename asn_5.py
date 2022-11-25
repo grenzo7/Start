@@ -1,26 +1,4 @@
-# class Train:
-    
 
-#     def getStatus(self,name):
-#         self.name=name
-#         if self.name=="Indian Railways":
-#             print("Available")
-#         elif self.name=="Nepal Railways":
-#             print("Not available")
-
-#     def FareInformation(self):
-#         if self.name=="Indian Railways":
-#             print('Fare is 100 INR')
-#         elif self.name=="Nepal Railways":
-#             print("Fare is 200 INR")
-
-
-    
-
-# yourTrain=input("Enter your train name\n")
-# Ram=Train()
-# Ram.getStatus(yourTrain)
-# Ram.FareInformation()
 
 
 class Train:
